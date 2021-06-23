@@ -3,7 +3,7 @@
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/shivam-op/MUSIC-PLAYER-">
+  <a href="https://github.com/shivam-op/MUSIC-PLAYER">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -19,12 +19,12 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/shivam-op/MUSIC-PLAYER-/fork">
-    <img src="https://img.shields.io/github/forks/LushaiMusic/GroupMusicBot?label=Fork&style=social">
+  <a href="https://github.com/shivam-op/MUSIC-PLAYER/fork">
+    <img src="https://img.shields.io/github/forks/shivam-op/MUSIC-PLAYER?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/shivam-op/MUSIC-PLAYER-">
-    <img src="https://img.shields.io/github/stars/shivam-op/MUSIC-PLAYER-?style=social">
+    <img src="https://img.shields.io/github/stars/shivam-op/MUSIC-PLAYER?style=social">
   </a>
 </p>
 
